@@ -1,0 +1,11 @@
+body{
+    background-color: grey !important;
+}
+
+h1, #loading{
+    color: blanchedalmond !important;
+}
+
+.img-card{
+    width: 300px !important;
+}
